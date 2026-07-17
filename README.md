@@ -38,13 +38,13 @@
 
 ### 📌 Featured Projects
 
-#### 🌫️ [Delhi AQI Predictor](https://github.com/Shivam-Singh001)
+#### 🌫️ [Delhi AQI Predictor](https://github.com/Shivam-Singh001/delhi-aqi-predictor)
 Predicts Delhi's Air Quality Index using a regression model with an interactive Streamlit dashboard.
 - **R² Score: 0.994** on test data
 - Synthetic data pipeline, full EDA, trained model artifacts
 - Live dashboard for real-time predictions
 
-#### 📊 [Sales Performance Analysis](https://github.com/Shivam-Singh001)
+#### 📊 [Sales Performance Analysis](https://github.com/Shivam-Singh001/sales-demand-prediction)
 End-to-end sales forecasting and performance analysis model.
 - **R² Score: 0.93**
 - Data pipeline, feature engineering, and visualization suite
