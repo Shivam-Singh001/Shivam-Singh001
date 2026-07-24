@@ -49,7 +49,7 @@ End-to-end sales forecasting and performance analysis model.
 - **R² Score: 0.93**
 - Data pipeline, feature engineering, and visualization suite
 
-#### 🧠 Hirenexa AI
+#### 🧠 [Hirenexa AI](https://github.com/Shivam-Singh001/Hirenexa-AI)
 AI-powered resume screener that ranks candidates against a job description using semantic similarity, not just keyword matching.
 -Sentence embeddings (all-MiniLM-L6-v2) for semantic + skill-based matching
 -Resume parsing (PDF/DOCX) with automatic name, contact, and skill extraction
