@@ -49,6 +49,12 @@ End-to-end sales forecasting and performance analysis model.
 - **R² Score: 0.93**
 - Data pipeline, feature engineering, and visualization suite
 
+#### 🧠 Hirenexa AI
+AI-powered resume screener that ranks candidates against a job description using semantic similarity, not just keyword matching.
+-Sentence embeddings (all-MiniLM-L6-v2) for semantic + skill-based matching
+-Resume parsing (PDF/DOCX) with automatic name, contact, and skill extraction
+-Interactive Streamlit dashboard with ranked candidates and match breakdowns
+
 #### 🔄 Customer Churn Prediction *(in progress)*
 Predicting customer churn using the Telco dataset.
 - **XGBoost** classifier with **SMOTE** for class imbalance
