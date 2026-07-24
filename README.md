@@ -51,9 +51,9 @@ End-to-end sales forecasting and performance analysis model.
 
 #### 🧠 [Hirenexa AI](https://github.com/Shivam-Singh001/Hirenexa-AI)
 AI-powered resume screener that ranks candidates against a job description using semantic similarity, not just keyword matching.
--Sentence embeddings (all-MiniLM-L6-v2) for semantic + skill-based matching
--Resume parsing (PDF/DOCX) with automatic name, contact, and skill extraction
--Interactive Streamlit dashboard with ranked candidates and match breakdowns
+- Sentence embeddings (all-MiniLM-L6-v2) for semantic + skill-based matching
+- Resume parsing (PDF/DOCX) with automatic name, contact, and skill extraction
+- Interactive Streamlit dashboard with ranked candidates and match breakdowns
 
 #### 🔄 Customer Churn Prediction *(in progress)*
 Predicting customer churn using the Telco dataset.
